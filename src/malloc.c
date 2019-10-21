@@ -30,6 +30,7 @@ static int max_heap          = 0;
  *
  *  \return none
  */
+// hello
 void printStatistics( void )
 {
   printf("\nheap management statistics\n");
